@@ -32,8 +32,6 @@ python3 newsMoodLight.py
 2. Connect your phone and your computer to the same wifi network
 3. Open the lifx app and connect your lights
 
-This file only works
-
 ## Credits
 * [newsAPI](https://newsapi.org/)
 * [openAI](https://beta.openai.com/)

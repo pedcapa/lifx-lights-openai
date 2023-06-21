@@ -5,6 +5,7 @@ The script then changes the brightness of the [lifx](https://www.lifx.com/) ligh
 
 ## Table of Contents
 * [How to use](#how-to-use)
+* [How to setup your lifx lights](#how-to-setup-your-lifx-lights)
 * [Credits](#credits)
 
 ## How to use
@@ -20,10 +21,18 @@ git clone https://github.com/catbox-dev/newsMoodLight.git
 pip3 install -r requirements.txt
 ```
 6. Replace the tokens in confi.ini with your tokens
+7. Make sure you have correctly setup your lifx lights, see [here](#how-to-setup-your-lifx-lights)
 7. Run the script
 ```sh
 python3 newsMoodLight.py
 ```
+
+## How to setup your lifx lights
+1. Install the lifx app on your phone
+2. Connect your phone and your computer to the same wifi network
+3. Open the lifx app and connect your lights
+
+This file only works
 
 ## Credits
 * [newsAPI](https://newsapi.org/)

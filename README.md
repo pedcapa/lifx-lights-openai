@@ -1,1 +1,1 @@
-# 
+# Implementation of the paper "A Neural Algorithm of Artistic Style" by Gatys et al. in TensorFlow

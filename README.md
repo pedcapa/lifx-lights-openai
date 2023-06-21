@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 ```
 6. Replace the tokens in confi.ini with your tokens
 7. Make sure you have correctly setup your lifx lights, see [here](#how-to-set-up-your-lifx-lights)
-7. Run the script
+7. Run the python script
 ```sh
 python3 newsMoodLight.py
 ```
